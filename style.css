@@ -476,7 +476,7 @@ html {
 
 .contact-left {
     width: 35%;
-    background:center no-repeat;
+    background:linear-gradient( rgba(197, 225, 230, 0.6), rgba(22, 22, 22, .9)), url(images/contact.jpg)center no-repeat;
     background-size: cover;
 }
 
