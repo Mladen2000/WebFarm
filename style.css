@@ -476,7 +476,7 @@ html {
 
 .contact-left {
     width: 35%;
-    background:center;
+    background:center no-repeat;
     background-size: cover;
 }
 
