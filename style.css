@@ -476,8 +476,8 @@ html {
 
 .contact-left {
     width: 35%;
-    background:-webkit-linear-gradient( rgba(197, 225, 230, 0.6), rgba(22, 22, 22, 0.9)) url(images/contact.jpg)center fixed;
-    background-size: cover
+    background:-webkit-linear-gradient( rgba(197, 225, 230, 0.6), rgba(22, 22, 22, 0.9)) url(images/contact.jpg)center no-repeat;
+    background-size: cover;
 }
 
 .contact-right {
